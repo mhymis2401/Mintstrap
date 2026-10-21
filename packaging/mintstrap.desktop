@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mintstrap
+Comment=Roblox mod manager and Sober FastFlags tool
+Exec=mintstrap
+Icon=applications-games
+Terminal=false
+Categories=Utility;Game;
+StartupNotify=true
